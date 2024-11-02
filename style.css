@@ -1,6 +1,19 @@
+html {
+  background-color : PaleTurquoise
+}
 header {
-  background-color : darkblue;
+  background-color : RoyalBlue;
+  margin-bottom : 10px;
 }
 div {
-  background-color : blue;
+  background-color : lightskyblue;
+}
+header, div {
+  border : 2px solid blue;
+  padding : 10px;
+}
+a {
+  border : 3px solid black;
+  background-color : lightseagreen;
+  color : white;
 }
